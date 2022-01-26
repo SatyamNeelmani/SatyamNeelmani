@@ -1,7 +1,7 @@
 Hi, I’m SatyamNeelmani. <br>Currently working as Consultant in Mastercard Data and Services. 
 <br>Prior to this I worked as an AI Researcher in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome.
  
-	<b>I’m actively looking for Data Science roles<b> 
+	<b>I’m actively looking for Data Science roles</b> 
 
 My Educational Qualification:
 
