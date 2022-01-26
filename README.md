@@ -13,6 +13,7 @@ My Educational Qualification:
 Contact Details
 <br>Email:- satyam.neelmani@gmail.com
 <br>Linkedin:-https://www.linkedin.com/in/satyamneelmani
+<br>Projects:-https://satyamneelmani.wordpress.com/category/projects/
 
 <!---
 SatyamNeelmani/SatyamNeelmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
