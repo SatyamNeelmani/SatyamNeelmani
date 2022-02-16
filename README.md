@@ -14,7 +14,7 @@ Contact Details
 <br>Email:- satyam.neelmani@gmail.com
 <br>Contact Details:- +91-7505597578
 <br>Linkedin:-https://www.linkedin.com/in/satyamneelmani
-<br>Projects:-https://satyamneelmani.wordpress.com/category/projects/
+<br>Projects:-https://satyamneelmani.wordpress.com
 <br>ML Project Github:- https://github.com/SatyamNeelmani/Major_Machine_Learning_Projects
 
 <!---
