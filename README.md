@@ -168,26 +168,27 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 
 # Skills
 
-- Full Stack Web Development
-- Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
-- Photography
-- Operation Systems: Windows, Ubuntu, Kali
-- Softwares
-<table>
-  <tr>
-    <th>Imaging</th>
-    <td><img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Lightroom-24A3F7?style=for-the-badge&logo=adobe&logoColor=001D3F"> <img src="https://img.shields.io/badge/Snapseed-0B7D40?style=for-the-badge&logo=google&logoColor=ACF756"></td>
-  </tr>
-  <tr>
-    <th>Video</th>
-    <td><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-E287F6?style=for-the-badge&logo=adobe&logoColor=140122"> <img src="https://img.shields.io/badge/Rush-9494F7?style=for-the-badge&logo=adobe&logoColor=000058"></td>
-  </tr>
-  <tr>
-    <th>Graphics and Prototyping</th>
-    <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> <img src="https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&logo=figma&logoColor=000000"> </td>
-  </tr>
- </table>
+- Python
+- SQL
+- Tableau
+- R
 
+# Business Coursework
+- Marketing Analytics
+- Supply Chain Analytics
+- Customer Analytics
+- Financial Accounting
+- Econometrics	
+- Business Analysis
+- Operations Management
+	
+# Data Science Coursework
+- Probability
+- Statistics
+- Machine Learning
+- Deep Learning, NLP
+- Advanced Deep Learning
+	
 # Achievements
 <ui>
 	<li>Won 1st prize in the Notitia 2.0, Business Insights & Analytics Competition organised by IFMR, Sri City   ‘21 </li>
