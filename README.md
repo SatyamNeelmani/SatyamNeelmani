@@ -20,9 +20,7 @@ SatyamNeelmani/SatyamNeelmani is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
-
-<h3><i>Spare some time to take a look at my <a href="https://anirudhbelwadi.com/">portfolio</a>!</i></h3>
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
 
@@ -54,8 +52,8 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
 # Experience
-- [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Director</b> - <b>March 2021 - Present</b>
-- [Cardinal LCA](https://cardinallca.com/) - <b>Frontend Developer</b> - <b>July 2021 - Present</b>
+-<b>Analytics Consultant, MasterCard</b> - <b>Nov 2021 - Present</b>
+-<b>Data Science Consultant, Athancare</b> - <b>May 2019 - May 2020</b>
 <ul>
   <li>
     <a href="http://hale-ai.com/">HaleAI</a> - 
