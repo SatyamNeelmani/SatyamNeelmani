@@ -1,13 +1,6 @@
  
 	I’m actively looking for Data Science roles 
 
-My Educational Qualification:
-
-	B.Tech, IIT Kharagpur	
-	PGD, Business Analytics, IIM Calcutta
-	PGD, Data Science, IIIT Bangalore
-	MS, AI, Liverpool John Moores University UK
-
 Contact Details
 <br>Email:- satyam.neelmani@gmail.com
 <br>Contact Details:- +91-7505597578
@@ -50,6 +43,51 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
+
+
+# Education
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    
+  </tr>
+  <tr>
+    <td>PG Diploma in Business Analytics</td>
+    <td>IIM Calcutta</a></td>
+    <td>2020-2022</td>
+  </tr>
+	
+  <tr>
+    <td>B. Tech in Agricultural and Food Engineering</td>
+    <td>IIT Kharagpur</a></td>
+    <td>2014-2018</td>
+  </tr>
+ </table>
+ 
+ # Executive Education
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    
+  </tr>
+  <tr>
+    <td>MSc in Data Science</td>
+    <td>Liverpool John Moores University, UK</a></td>
+    <td>2019-2020</td>
+  </tr>
+	
+  <tr>
+    <td>PG Diploma in Data Science</td>
+    <td>IIIT Bangalore</a></td>
+    <td>2018-2019</td>
+  </tr>
+ </table>
 
 # Experience
 <ul>
@@ -105,66 +143,6 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 - [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
 - [NETFLIX clone](https://netflix-clone-63163.web.app/)
 
-# Education
-
-<table>
-  <tr>
-    <th>Course</th>
-    <th>School/University</th>
-    <th>Year of Passing</th>
-    
-  </tr>
-  <tr>
-    <td>PG Diploma in Business Analytics</td>
-    <td>IIM Calcutta</a></td>
-    <td>2020-2022</td>
-  </tr>
-	
-  <tr>
-    <td>B. Tech in Agricultural and Food Engineering</td>
-    <td>IIT Kharagpur</a></td>
-    <td>2014-2018</td>
-  </tr>
- </table>
- 
- # Executive Education
-
-<table>
-  <tr>
-    <th>Course</th>
-    <th>School/University</th>
-    <th>Year of Passing</th>
-    
-  </tr>
-  <tr>
-    <td>MSc in Data Science</td>
-    <td>Liverpool John Moores University, UK</a></td>
-    <td>2019-2020</td>
-  </tr>
-	
-  <tr>
-    <td>PG Diploma in Data Science</td>
-    <td>IIIT Bangalore</a></td>
-    <td>2018-2019</td>
-  </tr>
- </table>
-
-# Volunteer Experience
-
-- [Flood Relief](https://drive.google.com/drive/folders/1g1qNxYeNRUOoXkljzwCMsyC2tjkH8oce?usp=sharing) Drive for Goonj NGO
-- Fundraising for [Bamanwada project](https://milaap.org/fundraisers/AnirudhBelwadi)
-- Event head - Tug of War - Cognition 2019 (the annual technical and [sports](https://www.instagram.com/sportsteam_siesgst/) fest of SIES Graduate School of Technology)
-
-# Licences and Certifications
-
-- [Bugsquash - a 72 hour Online Project Building Competition](https://drive.google.com/file/d/1Fr8_9unEv_wTL-XKSomTqU1P2wVBykRU/view?usp=sharing)
-- [HackerRank Problem Solving Skills](https://www.hackerrank.com/anirudh_belwadi)
-- [Python Programming - MyCaptain](https://drive.google.com/file/d/16Mce4eaoFY7ZRBlPz6tjbODy_RCH_qGK/view)
-- [Skill Badges in Qwiklabs](https://google.qwiklabs.com/public_profiles/c5d56831-78d1-4981-bde6-a2fb42576042)
-- [MetaCTF CyberGames 2020 Participation](https://drive.google.com/file/d/1Uijh4inUfXJo93oLlmL70uoEJ_jPbsTF/view)
-- [AWS Builders Online Series](https://drive.google.com/file/d/1fnzVgtJMJEY9A_qigD1lqVokC82uI-BU/view)
-- [Amazon S3 Primer](https://drive.google.com/file/d/1unL6rR-2voL36FmWxZKD0L1Ggr057rBj/view)
-- [Introduction to Amazon S3](https://drive.google.com/file/d/1VoNjAo5m7TwcZOS9kAz-uwircQEtPTDR/view)
 
 # Skills
 
