@@ -105,21 +105,6 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 - [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
 - [NETFLIX clone](https://netflix-clone-63163.web.app/)
 
-
-# Tech Stack
-
-### Front End
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Android-9FC037?style=for-the-badge&logo=android&logoColor=white">
-
-### Back End
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
-
-### Deployment Platforms
-
-<img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google&logoColor=white">
-
 # Education
 
 <table>
@@ -127,25 +112,40 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
     <th>Course</th>
     <th>School/University</th>
     <th>Year of Passing</th>
-    <th>Score</th>
+    
   </tr>
   <tr>
-    <td>B.E. in Computer Engineering</td>
-    <td><a href="https://mu.ac.in/">Mumbai University</a></td>
-    <td>2022</td>
-    <td>8.76 CGPA (Current)</td>
+    <td>PG Diploma in Business Analytics</td>
+    <td>IIM Calcutta</a></td>
+    <td>2020-2022</td>
+  </tr>
+	
+  <tr>
+    <td>B. Tech in Agricultural and Food Engineering</td>
+    <td>IIT Kharagpur</a></td>
+    <td>2014-2018</td>
+  </tr>
+ </table>
+ 
+ # Executive Education
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    
   </tr>
   <tr>
-    <td>Higher Secondary Certification</td>
-    <td><a href="http://vvhs.edu.in/">Vasant Vihar High School & Junior College</a></td>
-    <td>2018</td>
-    <td>78.77%</td>
+    <td>MSc in Data Science</td>
+    <td>Liverpool John Moores University, UK</a></td>
+    <td>2019-2020</td>
   </tr>
+	
   <tr>
-    <td>Secondary School Certification</td>
-    <td><a href="https://kaveri.edu.in/khsg/">Dr Kalmadi Shamarao High School</a></td>
-    <td>2016</td>
-    <td>87%</td>
+    <td>PG Diploma in Data Science</td>
+    <td>IIIT Bangalore</a></td>
+    <td>2018-2019</td>
   </tr>
  </table>
 
