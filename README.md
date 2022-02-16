@@ -1,5 +1,3 @@
-Hi, I’m SatyamNeelmani. <br>Currently working as Consultant in Mastercard Data and Services. 
-<br>Prior to this I worked as an AI Researcher in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome.
  
 	I’m actively looking for Data Science roles 
 
@@ -30,9 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 # About myself
 
-A passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
-
-My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
+Hi, I’m SatyamNeelmani. <br>Currently working as Consultant in Mastercard Data and Services. 
+<br>Prior to this I worked as an AI Researcher in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome.
 
 # Status
 
