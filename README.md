@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 # About myself
 
 Hi, I’m SatyamNeelmani. <br>Currently working as Consultant in Mastercard Data and Services. 
-<br>Prior to this I worked as an AI Researcher in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome.
+<br>Prior to this I worked as an Data Science Consultant in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome.
 
 # Status
 
@@ -209,7 +209,7 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 
 # Quick Links
 
-<a href="https://www.linkedin.com/in/anirudh-srinath-belwadi/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/satyamneelmani/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://anirudhbelwadi.com/assets/docs/Anirudh%20Srinath%20Belwadi%20-%20Resume.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:anirudh.belwadi@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/anirudh.fullstack/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
