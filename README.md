@@ -1,13 +1,6 @@
  
 	I’m actively looking for Data Science roles 
 
-Contact Details
-<br>Email:- satyam.neelmani@gmail.com
-<br>Contact Details:- +91-7505597578
-<br>Linkedin:-https://www.linkedin.com/in/satyamneelmani
-<br>Projects:-https://satyamneelmani.wordpress.com
-<br>ML Project Github:- https://github.com/SatyamNeelmani/Major_Machine_Learning_Projects
-
 <!---
 SatyamNeelmani/SatyamNeelmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -22,27 +15,6 @@ You can click the Preview link to take a look at your changes.
 Hi, I’m SatyamNeelmani. <br>Currently working as Consultant in Mastercard Data and Services. 
 <br>Prior to this I worked as an Data Science Consultant in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome.
 
-# Status
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
-
-## Recent Activity
-
-This is a list of my most recent activity on GitHub.
-
-<!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [anirudhbelwadi/kritika-kharbanda-portfolio](https://github.com/anirudhbelwadi/kritika-kharbanda-portfolio)
-2. 📔 Created new repository [Team-FullStack/maheshwari-enterprise](https://github.com/Team-FullStack/maheshwari-enterprise)
-3. 📔 Created new repository [Red-Flower-Consultancy/website](https://github.com/Red-Flower-Consultancy/website)
-4. 🔱 Forked [anirudhbelwadi/Ishan7390.github.io](https://github.com/anirudhbelwadi/Ishan7390.github.io) from [Ishan7390/Ishan7390.github.io](https://github.com/Ishan7390/Ishan7390.github.io)
-5. 💪 Opened PR [#1](https://github.com/mrpkdeveloper/CodeConnect/pull/1) in [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
 
 # Education
@@ -125,25 +97,6 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
   </li>
 </ul>
 
-- [ISTE SIESGST](https://www.linkedin.com/company/iste-sies-gst/) - <b>Techinal Head</b> - <b>Jan 2021 - Present</b>
-- [IETE SIESGST](http://ideation.techxter.in/team.html) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
-- [TEDxSIESGST](https://tedxsiesgst.live/our-team/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
-- [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology) - <b>POC</b> - <b>Jul 2020 - Present</b>
-- [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
-- [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/) - <b>Core member (Class Representative)<b> - <b>Jul 2018 - Present</b>
-
-# Projects
-
-- [Gist. Social Media Website](https://anirudhbelwadi.pythonanywhere.com)
-- [EntreSpace Website](https://entrespace.in/)
-- [Aaradhya Services Website](https://aaradhyaservices.in/)
-- [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
-- [Ideation 2020 Website](http://ideation.techxter.in/)
-- [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
-- [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
-- [NETFLIX clone](https://netflix-clone-63163.web.app/)
-
-
 # Skills
 
 - Python
@@ -189,6 +142,10 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 	<li>
 <a href="https://satyamneelmani.wordpress.com/"> Wordpress Blog</a><br></li>
 	<li>
-		Email ID: satyam.neelmani@gmail.com </li> </ui>
+		Email ID: satyam.neelmani@gmail.com </li> 
+	<li>
+		<a href="https://github.com/SatyamNeelmani/Major_Machine_Learning_Projects"> Github Projects</a></li>
 
-
+</ui>
+	
+	
