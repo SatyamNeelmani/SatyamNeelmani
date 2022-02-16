@@ -52,20 +52,11 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
 # Experience
--<b>Analytics Consultant, MasterCard</b> - <b>Nov 2021 - Present</b> <br>
--<b>Data Science Consultant, Athancare</b> - <b>May 2019 - May 2020</b><br>
 <ul>
-  <li>
-    <a href="http://hale-ai.com/">HaleAI</a> - 
-    <ul>
       <li>
-        <b>Full Stack Developer</b> - <b>Apr 2020 - Present</b>
-      </li>
-      <li>
-        <b>Full Stack Intern</b> - <b>Mar 2020 - Apr 2020</b>
-      </li>
-    </ul>
-  </li>
+	      -<b>Analytics Consultant, MasterCard</b> - <b>Nov 2021 - Present</b> <br> </li>
+	<li>
+		-<b>Data Science Consultant, Athancare</b> - <b>May 2019 - May 2020</b><br> </li>
 </ul>
 
 # Positions of Responsibility
