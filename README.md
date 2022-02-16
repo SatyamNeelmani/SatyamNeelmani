@@ -57,6 +57,10 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 	      <b>Analytics Consultant, MasterCard</b> - <b>Nov 2021 - Present</b> <br> </li>
 	<li>
 		<b>Data Science Consultant, Athancare</b> - <b>May 2019 - May 2020</b><br> </li>
+	<li>
+		<b>Business Analytics Intern, Athancare</b> - <b>May 2017 - June 2017</b><br> </li>
+	<li>
+		<b>Business Coordinator, Socbeez</b> - <b>October 2014 - March 2016</b><br> </li>
 </ul>
 
 # Positions of Responsibility
@@ -77,7 +81,7 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
         <b>Captain, Social and Cultural Events, VS Hall IIT KGP</b> - <b>July 2015 - April 2016</b>
       </li>
       <li>
-        <b>Administrator</b> - <b>Aug 2020 - July 2021</b>
+        <b>Associate Manager, Entrepreneurship Cell, IIT KGP</b> - <b>October 2016 - May 2017</b>
       </li>
     </ul>
   </li>
