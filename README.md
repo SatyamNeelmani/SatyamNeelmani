@@ -1,10 +1,12 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">
 
-<a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
+<a href="https://www.linkedin.com/in/satyamneelmani">
+	<img src="https://github.com/SatyamNeelmani/SatyamNeelmani/blob/main/IIM%20C%20Batchshoot.jpeg" align="right" height="300"></a>
 
-Hi, I’m SatyamNeelmani. <br>Currently working as Consultant in Mastercard Data and Services. 
-<br>Prior to this I worked as an Data Science Consultant in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome. 
-<br> I like short thriller movies and spend my free time in surfing them on youtube. Looking for a full time roles in Data Science. Please look into my Data Science Projects. 
+Hi, I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data and Services. 
+<br><br>Prior to this I worked as an Data Science Consultant in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome. 
+<br><br> I like short thriller movies and spend my free time in surfing them on youtube. 
+<br><br> I am Looking for full time roles in Data Science. You may find my Data Science Projects appealing for your consideration. 
 
 # Education
 
