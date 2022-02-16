@@ -208,21 +208,13 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 - <strong>Native or bilingual proficiency:</strong> Kannada
 - <strong>Elementary proficiency:</strong> Tamil, Gujarati
 
-# Quick Links
+# Contact me
+<ui>
+	<li>
+<a href="https://www.linkedin.com/in/satyamneelmani/"> Linkedin</a><br> </li>
+	<li>
+<a href="https://satyamneelmani.wordpress.com/"> Wordpress Blog</a><br></li>
+	<li>
+		Email ID: satyam.neelmani@gmail.com </li>
 
-<a href="https://www.linkedin.com/in/satyamneelmani/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://anirudhbelwadi.com/assets/docs/Anirudh%20Srinath%20Belwadi%20-%20Resume.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
-<a href="mailto:anirudh.belwadi@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/anirudh.fullstack/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/AnirudhBelwadi/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/youtube.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/chakravyuh/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/music.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/anirudh.belwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/BelwadiAnirudh"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/believed_it_after_clicking_it/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/camera.png"></a>&nbsp;&nbsp;
-<a href="https://g.dev/anirudhbelwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/googledev.png"></a>
 
-# Support Me
-
-If you like the value I provide and want to support, maybe consider buying me a book so that I can work more on my skills and produce more value added content 🙌
-<br><br>
-<a href="https://www.buymeacoffee.com/anirudhbelwadi"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=anirudhbelwadi&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
