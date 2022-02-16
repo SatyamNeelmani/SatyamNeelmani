@@ -6,7 +6,7 @@
 Hi, I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data and Services. 
 <br><br>Prior to this I worked as an Data Science Consultant in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome. 
 <br><br> I like short thriller movies and spend my free time in surfing them on youtube. 
-<br><br> I am Looking for full time roles in Data Science. You may find my Data Science Projects appealing for your consideration. 
+<br><br> <b>I am Looking for full time roles in Data Science. You may find my Data Science Projects appealing for your consideration.</B> 
 
 # Education
 
@@ -55,37 +55,35 @@ Hi, I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard 
 # Experience
 <ul>
       <li>
-	      <b>Analytics Consultant, MasterCard</b> - <b>Nov 2021 - Present</b> <br> </li>
+	      Analytics Consultant, MasterCard - Nov 2021 - Present <br> </li>
 	<li>
-		<b>Data Science Consultant, Athancare</b> - <b>May 2019 - May 2020</b><br> </li>
+		Data Science Consultant, Athancare - May 2019 - May 2020<br> </li>
 	<li>
-		<b>Business Analytics Intern, Athancare</b> - <b>May 2017 - June 2017</b><br> </li>
+		Business Analytics Intern, Athancare - May 2017 - June 2017<br> </li>
 	<li>
-		<b>Business Coordinator, Socbeez</b> - <b>October 2014 - March 2016</b><br> </li>
+		Business Coordinator, Socbeez - October 2014 - March 2016<br> </li>
 </ul>
 
 # Positions of Responsibility
 
 <ul>
-  <li>
     <ul>
       <li>
-        <b>Administrative Head, CRY IIT KGP</b> - <b>July 2017 - April 2018</b>
+        Administrative Head, CRY IIT KGP</b> - July 2017 - April 2018
       </li>
       <li>
-        <b>General Secreatary, Students Welfare, IIT KGP</b> - <b>July 2017 - April 2018</b>
+        General Secreatary, Students Welfare, IIT KGP - July 2017 - April 2018
       </li>
 <li>
-        <b>Team Lead, CRY IIT KGP</b> - <b>July 2016 - April 2017</b>
+        Team Lead, CRY IIT KGP</b> - <b>July 2016 - April 2017
       </li>
 	    <li>
-        <b>Captain, Social and Cultural Events, VS Hall IIT KGP</b> - <b>July 2015 - April 2016</b>
+        Captain, Social and Cultural Events, VS Hall IIT KGP - July 2015 - April 2016
       </li>
       <li>
-        <b>Associate Manager, Entrepreneurship Cell, IIT KGP</b> - <b>October 2016 - May 2017</b>
+        Associate Manager, Entrepreneurship Cell, IIT KGP - October 2016 - May 2017
       </li>
     </ul>
-  </li>
 </ul>
 
 # Skills
