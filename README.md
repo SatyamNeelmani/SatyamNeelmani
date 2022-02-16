@@ -67,15 +67,14 @@ Hi, I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard 
 # Positions of Responsibility
 
 <ul>
-    <ul>
       <li>
-        Administrative Head, CRY IIT KGP</b> - July 2017 - April 2018
+        Administrative Head, CRY IIT KGP - July 2017 - April 2018
       </li>
       <li>
         General Secreatary, Students Welfare, IIT KGP - July 2017 - April 2018
       </li>
 <li>
-        Team Lead, CRY IIT KGP</b> - <b>July 2016 - April 2017
+        Team Lead, CRY IIT KGP - July 2016 - April 2017
       </li>
 	    <li>
         Captain, Social and Cultural Events, VS Hall IIT KGP - July 2015 - April 2016
@@ -83,7 +82,6 @@ Hi, I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard 
       <li>
         Associate Manager, Entrepreneurship Cell, IIT KGP - October 2016 - May 2017
       </li>
-    </ul>
 </ul>
 
 # Skills
