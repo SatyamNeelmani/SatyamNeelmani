@@ -52,8 +52,8 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
 # Experience
--<b>Analytics Consultant, MasterCard</b> - <b>Nov 2021 - Present</b>
--<b>Data Science Consultant, Athancare</b> - <b>May 2019 - May 2020</b>
+-<b>Analytics Consultant, MasterCard</b> - <b>Nov 2021 - Present</b> <br>
+-<b>Data Science Consultant, Athancare</b> - <b>May 2019 - May 2020</b><br>
 <ul>
   <li>
     <a href="http://hale-ai.com/">HaleAI</a> - 
