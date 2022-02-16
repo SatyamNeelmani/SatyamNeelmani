@@ -1,21 +1,10 @@
- 
-	I’m actively looking for Data Science roles 
-
-<!---
-SatyamNeelmani/SatyamNeelmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">
 
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
 
-# About myself
-
 Hi, I’m SatyamNeelmani. <br>Currently working as Consultant in Mastercard Data and Services. 
-<br>Prior to this I worked as an Data Science Consultant in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome.
-
-
+<br>Prior to this I worked as an Data Science Consultant in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome. 
+<br> I like short thriller movies and spend my free time in surfing them on youtube. Looking for a full time roles in Data Science. Please look into my Data Science Projects. 
 
 # Education
 
@@ -122,12 +111,12 @@ Hi, I’m SatyamNeelmani. <br>Currently working as Consultant in Mastercard Data
 	
 # Achievements
 <ui>
-	<li>Won 1st prize in the Notitia 2.0, Business Insights & Analytics Competition organised by IFMR, Sri City   ‘21 </li>
-	<li>Ranked 4th in DATTANSH, Business Case Study and Story Telling Competition organised by Symbiosis   ‘21</li>
-	<li>Top 1% among 2k+ participants in Food Demand Forecasting challenge hosted by Analytics Vidhya   ’21</li>
-	<li>Top 5% among 1k+ participants in Time Series Forecasting challenge hosted by Analytics Vidhya   ’21</li>		
-	<li>Ranked 50th out of 12k+ teams in Recommendation System hackathon held by Analytics Vidhya   ‘21</li>
-	<li>Recognised as Best Child Rights & You student volunteer by District Magistrate, West Midnapore   ’18</li>
+<li>Won 1st prize in the Notitia 2.0, Business Insights & Analytics Competition organised by IFMR, Sri City   ‘21 </li>
+<li>Ranked 4th in DATTANSH, Business Case Study and Story Telling Competition organised by Symbiosis   ‘21</li>
+<li>Top 1% among 2k+ participants in Food Demand Forecasting challenge hosted by Analytics Vidhya   ’21</li>
+<li>Top 5% among 1k+ participants in Time Series Forecasting challenge hosted by Analytics Vidhya   ’21</li>		
+<li>Ranked 50th out of 12k+ teams in Recommendation System hackathon held by Analytics Vidhya   ‘21</li>
+<li>Recognised as Best Child Rights & You student volunteer by District Magistrate, West Midnapore   ’18</li>
 	
 </ui>
 
