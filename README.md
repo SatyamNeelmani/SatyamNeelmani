@@ -189,24 +189,17 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
  </table>
 
 # Achievements
-- Best Project to solve a big AEC Problem
-  - Best Project to solve a big AEC Problem
-  - Project Link: https://learncarbon.me/
-- COVID-19 NATIONAL BIO INFORMATICS ONLINE HACKATHON FOR FULL STACKERS
-  - Anna University and IIT Bombay
-  - Finished in Top 25 out of 1000 teams from all over India
-- SIES Graduate School of Technology
-  - Most Enterprising Student in First Year
-  - Runnerup in Intercollegiate Quiz - MATRIX
-  - Runnerup in Tug of War
-- Runnerup in Tug of War
-  - Gaurav Puraskar
-  - Yogya Puraskar for Keyboard and Guitar
+	<ui>
+	<li>Won 1st prize in the Notitia 2.0, Business Insights & Analytics Competition organised by IFMR, Sri City   ‘21</li>
+<li>	<li>Ranked 4th in DATTANSH, Business Case Study and Story Telling Competition organised by Symbiosis   ‘21</li>
+	<li>Top 1% among 2k+ participants in Food Demand Forecasting challenge hosted by Analytics Vidhya   ’21</li>
+	<li>Top 5% among 1k+ participants in Time Series Forecasting challenge hosted by Analytics Vidhya   ’21</li>
+	<li>Ranked 50th out of 12k+ teams in Recommendation System hackathon held by Analytics Vidhya   ‘21</li>
+	<li>Recognised as Best Child Rights & You student volunteer by District Magistrate, West Midnapore   ’18</li></ui>
+
   
 # Languages
-- <strong>Full professional proficiency:</strong> English, Hindi, Marathi
-- <strong>Native or bilingual proficiency:</strong> Kannada
-- <strong>Elementary proficiency:</strong> Tamil, Gujarati
+- <strong>Full professional proficiency:</strong> English, Hindi
 
 # Contact me
 <ui>
@@ -215,6 +208,6 @@ Last Updated: Wednesday, February 16th, 2022, 1:57:13 AM
 	<li>
 <a href="https://satyamneelmani.wordpress.com/"> Wordpress Blog</a><br></li>
 	<li>
-		Email ID: satyam.neelmani@gmail.com </li>
+		Email ID: satyam.neelmani@gmail.com </li> </ui>
 
 
