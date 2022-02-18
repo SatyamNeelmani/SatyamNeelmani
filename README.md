@@ -50,6 +50,12 @@ I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data
     <td>IIIT Bangalore</a></td>
     <td>2018-2019</td>
   </tr>
+  
+   <tr>
+    <td>MA in Sociology</td>
+    <td>IGNOU, New Delhi</a></td>
+    <td>2022-2024</td>
+  </tr>
  </table>
 
 # Experience
