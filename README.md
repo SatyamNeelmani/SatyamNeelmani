@@ -59,16 +59,54 @@ I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data
  </table>
 
 # Experience
-<ul>
-      <li>
-	      Analytics Consultant, MasterCard - Nov 2021 - Present <br> </li>
-	<li>
-		Data Science Consultant, Athancare - May 2019 - May 2020<br> </li>
-	<li>
-		Business Analytics Intern, Athancare - May 2017 - June 2017<br> </li>
-	<li>
-		Business Coordinator, Socbeez - October 2014 - March 2016<br> </li>
-</ul>
+
+<table>
+  <tr>
+    <th>Designation</th>
+    <th>Organisation</th>
+    <th>Duration</th>
+    <th>Business Domain</th>
+    
+  </tr>
+  
+ <td>Consultant (Full time)</td>
+    <td>MasterCard</a></td>
+    <td>May'22 - Present</td>
+    <td>FinTech</td>
+<tr>
+    <td>Consultant (Intern)</td>
+    <td>MasterCard</a></td>
+    <td>Nov'21 - April'22</td>
+    <td>FinTech</td>
+  </tr>
+	
+<tr>
+    <td>Product Manager (Intern)</td>
+    <td>IITians Caliber</a></td>
+    <td>June'20 - Sep'20</td>
+    <td>Education</td>
+  </tr>
+
+ <td>Data Science Consultant (Full time)</td>
+    <td>Athancare</a></td>
+    <td>May'19 - May'20</td>
+    <td>HealthTech</td>
+     </tr>
+  <tr>
+    <td>Business Analyst (Intern)</td>
+    <td>Athancare</a></td>
+    <td>May'17 - June'17</td>
+    <td>HealthTech</td>
+  </tr>
+  
+  <tr>
+    <td>Project Manager Academics (Part Time)</td>
+    <td>SocBeez</a></td>
+    <td>Jan'15 - December'15</td>
+    <td>Education</td>
+  </tr>
+  
+ </table>
 
 # Positions of Responsibility
 
