@@ -115,8 +115,8 @@ I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data
 	
 # Achievements
 <ui>
-<li>Earned Pre Placement Offer for in Internship at MasterCard '22 </li>
-<li>Earned Pre Placement Offer in Internship at Athancare '17 </li>
+<li>Earned Pre Placement Offer in internship at MasterCard '22 </li>
+<li>Earned Pre Placement Offer in internship at Athancare '17 </li>
 <li>Won 1st prize in the Notitia 2.0, Business Insights & Analytics Competition organised by IFMR, Sri City   ‘21 </li>
 <li>Ranked 4th in DATTANSH, Business Case Study and Story Telling Competition organised by Symbiosis   ‘21</li>
 <li>Top 1% among 2k+ participants in Food Demand Forecasting challenge hosted by Analytics Vidhya   ’21</li>
