@@ -148,7 +148,8 @@ I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data
 - Probability
 - Statistics
 - Machine Learning
-- Deep Learning, NLP
+- Deep Learning
+- NLP
 - Advanced Deep Learning
 	
 # Achievements
