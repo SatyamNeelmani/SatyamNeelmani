@@ -4,7 +4,7 @@
 	<img src="https://github.com/SatyamNeelmani/SatyamNeelmani/blob/main/IIM%20C%20Batchshoot.jpeg" align="right" height="300"></a>
 
 I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data and Services. 
-<br><br>Prior to this I worked as an Data Science Consultant in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome. 
+<br><br>Prior to this I worked as an AI Researcher in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome. 
 <br><br> I like short thriller movies and spend my free time in surfing them on youtube. 
 <br><br> <b>I am Looking for full time roles in Data Science. You may find my Data Science Projects appealing for your consideration.</B> 
 
@@ -51,11 +51,6 @@ I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data
     <td>2018-2019</td>
   </tr>
   
-   <tr>
-    <td>MA in Sociology</td>
-    <td>IGNOU, New Delhi</a></td>
-    <td>2022-2024</td>
-  </tr>
  </table>
 
 # Experience
@@ -87,7 +82,7 @@ I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data
     <td>Education</td>
   </tr>
 
- <td>Data Science Consultant (Full time)</td>
+ <td>AI Researcher (Full time)</td>
     <td>Athancare</a></td>
     <td>May'19 - May'20</td>
     <td>HealthTech</td>
