@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">
 
 <a href="https://www.linkedin.com/in/satyamneelmani">
-	<img src="https://github.com/SatyamNeelmani/SatyamNeelmani/blob/main/IIM%20C%20Batchshoot.jpeg" align="right" height="300"></a>
+	<img src="https://github.com/SatyamNeelmani/SatyamNeelmani/blob/main/12604910_1015402595173168_5998259810516464942_o.jpg" align="right" height="300"></a>
 
 I’m SatyamNeelmani. <br><br>Currently working as Consultant in Mastercard Data and Services. 
 <br><br>Prior to this I worked as an AI Researcher in a Delhi based health-tech start up, Athancare, where I worked on projects like Online Handwriting Recognition, OCR, Disease-Symptom Recommendation Engine to improve patient outcome. 
