@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">
 
 <a href="https://www.linkedin.com/in/satyamneelmani">
-	<img src="https://github.com/SatyamNeelmani/SatyamNeelmani/blob/main/4.JPG" align="right" height="300"></a>
+	<img src="https://github.com/SatyamNeelmani/SatyamNeelmani/blob/d5449ea5ebcf720d88e2de88e05f0c3740b3766e/Smart%20India%20Hackathon.png" align="right" height="300"></a>
 
 I’m SatyamNeelmani. <br><br>Currently working as Senior Data Scientist / Senior Consultant with Mastercard Data and Services, Gurgaon, India. 
 <br><br>Prior to this I worked as an AI & Market Research Analyst in a health-tech start up, Athancare.
